@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**ahmnadim/ahmnadim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+Ahmad ul hoq Nadim
 - 🔭 I’m currently working on Node.Js and React.Js
 - 🌱 I’m currently learning Microservice
 - 👯 I’m looking to collaborate on Open-source projects
