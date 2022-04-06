@@ -2,7 +2,7 @@
 ![Ahmad ul hoq Nadim Banner](https://media-exp1.licdn.com/dms/image/C5616AQFdkfQ8OkrC3A/profile-displaybackgroundimage-shrink_200_800/0/1649236971869?e=1654732800&v=beta&t=bYg7mPHUk__B1Ri8sS_iOZg4CtIrBcGctcExQSUUFTM)
 
 
-<!-- ## 👋 &nbsp;Hey there! I'm Ahmad ul hoq Nadim -->
+## 👋 &nbsp;Hey there! I'm Ahmad ul hoq Nadim
 
 ### 👨🏻‍💻 &nbsp;About Myself
 
@@ -13,16 +13,22 @@
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: [Ahmad ul hoq Nadim](https://www.linkedin.com/in/ahmad-ul-hoq-nadim-97658bab/)
 - 😄 Pronouns: Nadim
-- ⚡ Fun fact: ""
+- ⚡ Fun fact: "😄"
 
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;My Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescrpt)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![Rest Api](https://img.shields.io/badge/-RestApi-05122A?style=flat&logo=restapi)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
