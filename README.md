@@ -1,7 +1,6 @@
 
 ![Ahmad ul hoq Nadim Banner](https://scontent.fdac14-1.fna.fbcdn.net/v/t39.30808-6/274701726_4909295095854013_4661634530175533800_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGlfhMprt-N6VNljinneGdbPXVImOM3ygM9dUiY4zfKA5J1nhgqQ7HK8FOAIolYnDpyfB2ryKbaEAlobArWErd7&_nc_ohc=CIVKbUnd8RoAX9_GyX2&_nc_ht=scontent.fdac14-1.fna&oh=00_AT-aYomcDTvrCVsn535zB0X9nao7QsOdj8BC22ierXbQ_w&oe=6253084F)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Ahmad ul hoq Nadim -->
 
